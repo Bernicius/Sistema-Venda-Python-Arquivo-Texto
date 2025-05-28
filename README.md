@@ -2,24 +2,6 @@
 
 Este é um sistema simples de gerenciamento de **clientes**, **produtos** e **vendas**, desenvolvido em Python, com persistência de dados via arquivos `.txt`.
 
-## 📁 Estrutura do Projeto
-
-projeto/
-│
-├── src/
-│ ├── controllers/
-│ │ ├── controlador_cadastro.py
-│ │ └── controlador_vendas.py
-│ ├── view/
-│ │ ├── mostrar_menus.py
-│ │ └── mostrar_dicionarios.py
-│ └── main.py
-├── clientes.txt
-├── produtos.txt
-├── vendas.txt
-└── README.md
-
-
 ## 🚀 Funcionalidades
 
 - Cadastro de clientes e produtos
